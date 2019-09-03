@@ -21,4 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Click the below link for check the proyect in heroku 
+  https://powerful-plains-10093.herokuapp.com
